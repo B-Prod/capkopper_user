@@ -1,0 +1,12 @@
+<?php
+/**
+ * @file
+ * Code for the capKopper User feature.
+ */
+
+/*
+ * Implements hook_email_registration_name().
+ */
+function capkopper_user_email_registration_name($edit, $account) {
+  return $account->mail;
+}
