@@ -1,2 +1,2 @@
-# capkopper_user
+# capKopper User
 Provides specific functionalities for users management.
