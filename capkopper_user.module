@@ -4,6 +4,12 @@
  * Code for the capKopper User feature.
  */
 
+include_once 'capkopper_user.features.inc';
+/**
+ * @file
+ * Code for the capKopper User feature.
+ */
+
 /*
  * Implements hook_email_registration_name().
  */
